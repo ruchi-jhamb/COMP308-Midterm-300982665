@@ -1,3 +1,8 @@
+// Ruchi - 300982665
+// April 19 2019
+// Tom Tsiliopoulos
+// COMP308 Midterm
+
 // modules required for routing
 let express = require("express");
 let router = express.Router();
